@@ -1,0 +1,12 @@
+{
+    "video_labels": {
+        "fake_video.mp4": "fake",
+        "real_video.mp4": "real",
+        "deepfake_sample.mp4": "fake",
+        "authentic_sample.mp4": "real",
+        "tmpyjtm7_jp.mp4": "real",
+        "tmpyx0s8mcj.mp4": "fake",
+        "tmpylq34cbn.mp4": "real"
+    },
+    "description": "Mapeamento de nomes de arquivos para labels conhecidos."
+}
